@@ -7,15 +7,6 @@ In this project, you will provision an Amazon ECS Cluster into an existing Amazo
 * Apply an Auto Scaling Group Policy to respond to ECS metrics
 * Deploy an Amazon ECS Cluster into an existing Amazon VPC using Terraform
 
-## Prerequisites
-* Amazon Elastic Container Service
-* Terraform
-
-
-![environment before](https://github.com/iamtruptimane/provisioning-ESC-cluster-using-terraform/blob/main/img/env_before.png)
-
-![environment after](https://github.com/iamtruptimane/provisioning-ESC-cluster-using-terraform/blob/main/img/env_after.png)
-
 ## Existing Infrastructure
 The following resources you should deployed before starting this project and it will be referenced in your ECS Cluster:
 * 1 Virtual Private Cloud
